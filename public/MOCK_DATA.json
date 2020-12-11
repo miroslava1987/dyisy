@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "playzee", "bonuses": { "up": 100, "zeeSpins": 150, "zeePoints": 500, "price": 1500 }, "userRating": "2589", "rating": "10.0", "img": "../img/casino/playzee.png", "isFavorite": true, "isTrending": false, "isFirstNumber": false, "isExclusive": false },
+    { "id": 2, "name": "machance", "bonuses": { "up": 200, "freeSpins": 20, "price": 500 }, "userRating": "2063", "rating": "9.9", "img": "../img/casino/Machance.jpg", "isFavorite": false, "isTrending": true, "isFirstNumber": false, "isExclusive": false },
+    { "id": 3, "name": "intence", "bonuses": { "up": 200, "freeSpins": 30, "price": 3000 }, "userRating": "1975", "rating": "9.8", "img": "../img/casino/intence.png", "isFavorite": false, "isTrending": false, "isFirstNumber": true, "isExclusive": false },
+    { "id": 4, "name": "leoVegas", "bonuses": { "up": 100, "freeSpins": 25, "price": 200 }, "userRating": "1890", "rating": "9.4", "img": "../img/casino/leoVegas.png", "isFavorite": false, "isTrending": false, "isFirstNumber": false, "isExclusive": true },
+    { "id": 5, "name": "casumo", "bonuses": { "up": 100, "freeSpins": 25, "price": 250 }, "userRating": "1816", "rating": "9.3", "img": "../img/casino/casumo.png", "isFavorite": false, "isTrending": false, "isFirstNumber": false, "isExclusive": false }
+]
