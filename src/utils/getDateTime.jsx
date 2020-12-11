@@ -1,4 +1,4 @@
 export const getDateTime = () => {
     const date = new Date();
-    console.log(date.toLocaleTimeString())
+    console.log(`date time - ${date.toLocaleTimeString()}`)
 }

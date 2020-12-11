@@ -5,5 +5,5 @@ export const getUserIp = async () => {
     const responseIdInfo = await Axios.get(urlId);
     const { data } = responseIdInfo;
     const ip = data.ip;
-    console.log(ip);
+    console.log(`user ip - ${ip}`);
 };

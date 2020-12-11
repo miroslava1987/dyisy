@@ -41,7 +41,7 @@ export const ProductItem = (props) => {
   const btnHandler = (id) => {
     getUserIp();
     getDateTime();
-    console.log(id);
+    console.log(`button id - ${id}`);
   };
   const { screenWidth } = useWindowDimensions();
 
